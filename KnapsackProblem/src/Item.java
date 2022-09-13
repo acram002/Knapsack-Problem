@@ -1,4 +1,4 @@
-
+//used to create Item Objects that hold and return Item data
 public class Item {
 
 	private double weight;
